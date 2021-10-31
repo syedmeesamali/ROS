@@ -1,0 +1,8 @@
+prefix=/home/ali/Desktop/ros/ros_ws/devel
+
+Name: topic_basics
+Description: Description of topic_basics
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

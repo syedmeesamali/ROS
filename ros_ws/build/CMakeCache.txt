@@ -473,6 +473,12 @@ rostime_DIR:PATH=/opt/ros/noetic/share/rostime/cmake
 //The directory containing a CMake configuration file for std_msgs.
 std_msgs_DIR:PATH=/opt/ros/noetic/share/std_msgs/cmake
 
+//Value Computed by CMake
+topic_basics_BINARY_DIR:STATIC=/home/ali/Desktop/ros/ros_ws/build/topic_basics
+
+//Value Computed by CMake
+topic_basics_SOURCE_DIR:STATIC=/home/ali/Desktop/ros/ros_ws/src/topic_basics
+
 //The directory containing a CMake configuration file for xmlrpcpp.
 xmlrpcpp_DIR:PATH=/opt/ros/noetic/share/xmlrpcpp/cmake
 
